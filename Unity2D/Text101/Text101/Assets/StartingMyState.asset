@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48cda70eac7adff4cbd43237d74dc3cd, type: 3}
+  m_Name: StartingMyState
+  m_EditorClassIdentifier: 
+  storyText: "Du v\xE5kner i et rom. \r\nDu husker ingenting \r\n1. Se deg rundt\r\n2.
+    Se hvilke eiendeler du har"
