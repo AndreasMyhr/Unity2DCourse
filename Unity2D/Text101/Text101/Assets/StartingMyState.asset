@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Du v\xE5kner i et rom. \r\nDu husker ingenting \r\n1. Se deg rundt\r\n2.
     Se hvilke eiendeler du har"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 244df794013f6ec4bb38f1d6d021319c, type: 2}
+  - {fileID: 11400000, guid: 73c6af2bcb528584dbaee4328d37a4fb, type: 2}
