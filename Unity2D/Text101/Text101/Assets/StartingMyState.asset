@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Du v\xE5kner i et rom. \r\nDu husker ingenting \r\n1. Se deg rundt\r\n2.
     Se hvilke eiendeler du har"
+  nextStates: []
